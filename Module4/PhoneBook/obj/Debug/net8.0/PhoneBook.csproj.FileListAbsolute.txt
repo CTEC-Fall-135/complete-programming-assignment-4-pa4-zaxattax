@@ -1,0 +1,15 @@
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\bin\Debug\net8.0\PhoneBook.exe
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\bin\Debug\net8.0\PhoneBook.deps.json
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\bin\Debug\net8.0\PhoneBook.runtimeconfig.json
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\bin\Debug\net8.0\PhoneBook.dll
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\bin\Debug\net8.0\PhoneBook.pdb
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfoInputs.cache
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfo.cs
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\PhoneBook.csproj.CoreCompileInputs.cache
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\PhoneBook.sourcelink.json
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\PhoneBook.dll
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\refint\PhoneBook.dll
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\PhoneBook.pdb
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\PhoneBook.genruntimeconfig.cache
+H:\School - Clark\Fall 2025\CTEC 135 - C#\Week 4\Programming Assignment 4\complete-programming-assignment-4-pa4-zaxattax\Module4\PhoneBook\obj\Debug\net8.0\ref\PhoneBook.dll
